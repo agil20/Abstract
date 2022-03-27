@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\bin\Debug\net5.0\Abstrakt.exe
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\bin\Debug\net5.0\Abstrakt.deps.json
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\bin\Debug\net5.0\Abstrakt.runtimeconfig.json
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\bin\Debug\net5.0\Abstrakt.runtimeconfig.dev.json
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\bin\Debug\net5.0\Abstrakt.dll
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\bin\Debug\net5.0\Abstrakt.pdb
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\obj\Debug\net5.0\Abstrakt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\obj\Debug\net5.0\Abstrakt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\obj\Debug\net5.0\Abstrakt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\obj\Debug\net5.0\Abstrakt.AssemblyInfo.cs
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\obj\Debug\net5.0\Abstrakt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\obj\Debug\net5.0\Abstrakt.dll
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\obj\Debug\net5.0\refint\Abstrakt.dll
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\obj\Debug\net5.0\Abstrakt.pdb
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\obj\Debug\net5.0\Abstrakt.genruntimeconfig.cache
+C:\Users\User\Desktop\test\Abstrakt\Abstrakt\obj\Debug\net5.0\ref\Abstrakt.dll
